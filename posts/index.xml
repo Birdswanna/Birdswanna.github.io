@@ -13,7 +13,7 @@
       <pubDate>Thu, 29 Jun 2023 19:36:36 +0800</pubDate>
       
       <guid>/posts/%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%9C%9F%E9%97%B4%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
-      <description></description>
+      <description>1.在下载themes时提示fatal: not a git repository (or any of the parent directories): .git 这是由于git在blog&amp;rsquo;目录下未初始化导致的报错 在Powershell中输入git init 再输入git status检查git初始化状态未报错即可安装主题。</description>
     </item>
     
     <item>
